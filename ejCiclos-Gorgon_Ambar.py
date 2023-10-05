@@ -26,6 +26,7 @@ for k in range(1,6):
 
 
 # EJERCICIO 2
+"""
 nums_array = []
 
 num = int(input("Ingrese un numero: "))
@@ -61,3 +62,4 @@ for n in nums_array:
 print("-------------------------")
 print("TOTAL PARES:", total_evens)
 print("TOTAL IMPARES:", total_odds)
+"""
